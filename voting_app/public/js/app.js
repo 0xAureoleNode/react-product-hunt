@@ -5,3 +5,5 @@ const ProductList = () => {
     </div>
   );
 };
+
+ReactDOM.render(<ProductList />, document.getElementById('content'));
